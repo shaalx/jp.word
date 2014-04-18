@@ -1,2 +1,2 @@
-papper
+japanese word exploration
 ======
